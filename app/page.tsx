@@ -1,10 +1,10 @@
+import Navbar from '@/components/navbar'
+import { ModeToggle } from '@/components/theme-toggle'
 
 export default function Home() {
   return (
-    <section className='py-24'>
-      <div className='container'>
-        <h1 className='text-3xl font-bold'>NextJS Project Starter Kit</h1>
-      </div>
-    </section>
+    <div className='container'>
+      <h1 className='text-center text-3xl font-bold'>Image Gallery Project</h1>
+    </div>
   )
 }
