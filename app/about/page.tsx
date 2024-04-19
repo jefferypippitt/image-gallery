@@ -12,7 +12,7 @@ const AboutPage = () => {
       <ul className='mt-6'>
         <li>
           <strong>Sleek Interface:</strong> Enjoy a modern and user-friendly
-          interface created with dev0
+          interface created with v0
         </li>
         <li>
           <strong>ShadcnUI Integration:</strong> Great design elements from
